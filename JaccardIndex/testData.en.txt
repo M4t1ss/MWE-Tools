@@ -1,0 +1,4 @@
+ abdominal cavity	8
+ abdominal discomfort	24
+ abdominal pain	610
+ abdominal wall	67

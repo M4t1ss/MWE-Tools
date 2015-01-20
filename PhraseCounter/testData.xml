@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE candidates SYSTEM "dtd/mwetoolkit-candidates.dtd">
+<candidates>
+	<meta></meta>
+	<cand candid="0">
+		<entry entryid="0">
+			<ngram>
+				<w lemma="European" pos="JJ" />
+				<w lemma="economy" pos="NN" />
+				<w lemma="series" pos="NN" />
+			</ngram>
+		</entry>
+		<occurs>
+			<ngram>
+				<w surface="european" lemma="European" pos="JJ" />
+				<w surface="economy" lemma="economy" pos="NN" />
+				<w surface="series" lemma="series" pos="NN" />
+				<freq name="shortBR.en.tagged" value="1" />
+			</ngram>
+		</occurs>
+	</cand>
+	<cand candid="1">
+		<entry entryid="1">
+			<ngram>
+				<w lemma="Thai" pos="NN" />
+				<w lemma="plastic" pos="NN" />
+			</ngram>
+		</entry>
+		<occurs>
+			<ngram>
+				<w surface="thai" lemma="Thai" pos="NN" />
+				<w surface="plastic" lemma="plastic" pos="NN" />
+				<freq name="shortBR.en.tagged" value="1" />
+			</ngram>
+		</occurs>
+	</cand>
+	<cand candid="2">
+		<entry entryid="2">
+			<ngram>
+				<w lemma="atrial" pos="JJ" />
+				<w lemma="block" pos="NN" />
+			</ngram>
+		</entry>
+		<occurs>
+			<ngram>
+				<w surface="atrial" lemma="atrial" pos="JJ" />
+				<w surface="block" lemma="block" pos="NN" />
+				<freq name="shortBR.en.tagged" value="10" />
+			</ngram>
+		</occurs>
+	</cand>
+	<cand candid="3">
+		<entry entryid="3">
+			<ngram>
+				<w lemma="bond" pos="NN" />
+				<w lemma="van" pos="NN" />
+				<w lemma="nederlandse" pos="NN" />
+				<w lemma="architecten" pos="NN" />
+				<w lemma="@apos" pos="NN" />
+			</ngram>
+		</entry>
+		<occurs>
+			<ngram>
+				<w surface="bond" lemma="bond" pos="NN" />
+				<w surface="van" lemma="van" pos="NN" />
+				<w surface="nederlandse" lemma="nederlandse" pos="NN" />
+				<w surface="architecten" lemma="architecten" pos="NN" />
+				<w surface="@apos" lemma="@apos" pos="NN" />
+				<freq name="shortBR.en.tagged" value="2" />
+			</ngram>
+		</occurs>
+	</cand>
+</candidates>

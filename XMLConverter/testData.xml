@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE corpus SYSTEM "dtd/mwetoolkit-corpus.dtd">
+<corpus >
+	<s s_id="0">
+		<w surface="26" lemma="@card@" pos="LS" />
+		<w surface="." lemma="." pos="PU" />
+		<w surface="welcomes" lemma="welcome" pos="VBZ" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="commission" lemma="commission" pos="NN" />
+		<w surface="'" lemma="'" pos="POS" />
+		<w surface="s" lemma="s" pos="JJ" />
+		<w surface="commitment" lemma="commitment" pos="NN" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="pursue" lemma="pursue" pos="VB" />
+		<w surface="a" lemma="a" pos="DT" />
+		<w surface="policy" lemma="policy" pos="NN" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="enhanced" lemma="enhanced" pos="JJ" />
+		<w surface="bilateral" lemma="bilateral" pos="JJ" />
+		<w surface="cooperation" lemma="cooperation" pos="NN" />
+		<w surface="with" lemma="with" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="community" lemma="community" pos="NN" />
+		<w surface="'" lemma="'" pos="POS" />
+		<w surface="s" lemma="s" pos="JJ" />
+		<w surface="main" lemma="main" pos="JJ" />
+		<w surface="trading" lemma="trading" pos="NN" />
+		<w surface="partners" lemma="partner" pos="NNS" />
+		<w surface="and" lemma="and" pos="CC" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="expand" lemma="expand" pos="VB" />
+		<w surface="multilateral" lemma="multilateral" pos="JJ" />
+		<w surface="cooperation" lemma="cooperation" pos="NN" />
+		<w surface="in" lemma="in" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="field" lemma="field" pos="NN" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="competition" lemma="competition" pos="NN" />
+		<w surface=";" lemma=";" pos=":" />
+		<w surface="in" lemma="in" pos="IN" />
+		<w surface="particular" lemma="particular" pos="JJ" />
+		<w surface="," lemma="," pos="," />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="commission" lemma="commission" pos="NN" />
+		<w surface="must" lemma="must" pos="MD" />
+		<w surface="be" lemma="be" pos="VB" />
+		<w surface="congratulated" lemma="congratulate" pos="VBN" />
+		<w surface="for" lemma="for" pos="IN" />
+		<w surface="concluding" lemma="conclude" pos="VBG" />
+		<w surface="cooperation" lemma="cooperation" pos="NN" />
+		<w surface="agreements" lemma="agreement" pos="NNS" />
+		<w surface="in" lemma="in" pos="IN" />
+		<w surface="competition" lemma="competition" pos="NN" />
+		<w surface="matters" lemma="matter" pos="NNS" />
+		<w surface="with" lemma="with" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="united" lemma="unite" pos="VBN" />
+		<w surface="states" lemma="state" pos="NNS" />
+		<w surface="," lemma="," pos="," />
+		<w surface="canada" lemma="canada" pos="NN" />
+		<w surface="and" lemma="and" pos="CC" />
+		<w surface="japan" lemma="japan" pos="NN" />
+		<w surface=";" lemma=";" pos="SENT" /> 
+		<mweoccurs>
+			<mweoccur candid="14">
+				<mwepart index="7">s</mwepart>
+				<mwepart index="8">commitment</mwepart>
+			</mweoccur>
+			<mweoccur candid="21">
+				<mwepart index="14">enhanced</mwepart>
+				<mwepart index="15">bilateral</mwepart>
+				<mwepart index="16">cooperation</mwepart>
+			</mweoccur>
+			<mweoccur candid="17">
+				<mwepart index="15">bilateral</mwepart>
+				<mwepart index="16">cooperation</mwepart>
+			</mweoccur>
+			<mweoccur candid="31">
+				<mwepart index="21">s</mwepart>
+				<mwepart index="22">main</mwepart>
+				<mwepart index="23">trading</mwepart>
+			</mweoccur>
+			<mweoccur candid="9">
+				<mwepart index="22">main</mwepart>
+				<mwepart index="23">trading</mwepart>
+			</mweoccur>
+			<mweoccur candid="23">
+				<mwepart index="28">multilateral</mwepart>
+				<mwepart index="29">cooperation</mwepart>
+			</mweoccur>
+			<mweoccur candid="20">
+				<mwepart index="46">cooperation</mwepart>
+				<mwepart index="47">agreement</mwepart>
+			</mweoccur>
+		</mweoccurs>
+	</s>
+	<s s_id="1">
+		<w surface="26" lemma="@card@" pos="LS" />
+		<w surface="." lemma="." pos="PU" />
+		<w surface="welcomes" lemma="welcome" pos="VBZ" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="commission" lemma="commission" pos="NN" />
+		<w surface="'" lemma="'" pos="POS" />
+		<w surface="s" lemma="S" pos="NN" />
+		<w surface="efforts" lemma="effort" pos="NNS" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="promote" lemma="promote" pos="VB" />
+		<w surface="security" lemma="security" pos="NN" />
+		<w surface="research" lemma="research" pos="NN" />
+		<w surface="within" lemma="within" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="eu" lemma="eu" pos="NN" />
+		<w surface="in" lemma="in" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="near" lemma="near" pos="JJ" />
+		<w surface="future" lemma="future" pos="NN" />
+		<w surface=";" lemma=";" pos=":" />
+		<w surface="advocates" lemma="advocate" pos="NNS" />
+		<w surface="," lemma="," pos="," />
+		<w surface="therefore" lemma="therefore" pos="RB" />
+		<w surface="," lemma="," pos="," />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="establishment" lemma="establishment" pos="NN" />
+		<w surface="within" lemma="within" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="next" lemma="next" pos="JJ" />
+		<w surface="framework" lemma="framework" pos="NN" />
+		<w surface="programme" lemma="programme" pos="NN" />
+		<w surface="for" lemma="for" pos="IN" />
+		<w surface="research" lemma="research" pos="NN" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="an" lemma="an" pos="DT" />
+		<w surface="independent" lemma="independent" pos="JJ" />
+		<w surface="european" lemma="European" pos="JJ" />
+		<w surface="security" lemma="security" pos="NN" />
+		<w surface="research" lemma="research" pos="NN" />
+		<w surface="programme" lemma="programme" pos="NN" />
+		<w surface="endowed" lemma="endow" pos="VBN" />
+		<w surface="with" lemma="with" pos="IN" />
+		<w surface="instruments" lemma="instrument" pos="NNS" />
+		<w surface="," lemma="," pos="," />
+		<w surface="rules" lemma="rule" pos="NNS" />
+		<w surface="and" lemma="and" pos="CC" />
+		<w surface="funding" lemma="funding" pos="NN" />
+		<w surface="models" lemma="model" pos="NNS" />
+		<w surface="tailored" lemma="tailor" pos="VBN" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="work" lemma="work" pos="NN" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="researching" lemma="research" pos="VBG" />
+		<w surface="security" lemma="security" pos="NN" />
+		<w surface="issues" lemma="issue" pos="NNS" />
+		<w surface="," lemma="," pos="," />
+		<w surface="in" lemma="in" pos="IN" />
+		<w surface="keeping" lemma="keep" pos="VBG" />
+		<w surface="with" lemma="with" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="recommendations" lemma="recommendation" pos="NNS" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="group" lemma="group" pos="NN" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="eminent" lemma="eminent" pos="JJ" />
+		<w surface="persons" lemma="person" pos="NNS" />
+		<w surface=";" lemma=";" pos=":" />
+		<w surface="points" lemma="point" pos="VBZ" />
+		<w surface="out" lemma="out" pos="RP" />
+		<w surface="," lemma="," pos="," />
+		<w surface="however" lemma="however" pos="RB" />
+		<w surface="," lemma="," pos="," />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="risk" lemma="risk" pos="NN" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="duplication" lemma="duplication" pos="NN" />
+		<w surface="with" lemma="with" pos="IN" />
+		<w surface="research" lemma="research" pos="NN" />
+		<w surface="initiatives" lemma="initiative" pos="NNS" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="eda" lemma="eda" pos="NN" />
+		<w surface=";" lemma=";" pos=":" />
+		<w surface="calls" lemma="call" pos="NNS" />
+		<w surface="," lemma="," pos="," />
+		<w surface="therefore" lemma="therefore" pos="RB" />
+		<w surface="," lemma="," pos="," />
+		<w surface="on" lemma="on" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="commission" lemma="commission" pos="NN" />
+		<w surface="," lemma="," pos="," />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="council" lemma="council" pos="NN" />
+		<w surface="and" lemma="and" pos="CC" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="member" lemma="member" pos="NN" />
+		<w surface="states" lemma="state" pos="VBZ" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="maintain" lemma="maintain" pos="VB" />
+		<w surface="close" lemma="close" pos="JJ" />
+		<w surface="working" lemma="work" pos="VBG" />
+		<w surface="relations" lemma="relation" pos="NNS" />
+		<w surface="with" lemma="with" pos="IN" />
+		<w surface="a" lemma="a" pos="DT" />
+		<w surface="view" lemma="view" pos="NN" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="avoiding" lemma="avoid" pos="VBG" />
+		<w surface="this" lemma="this" pos="DT" />
+		<w surface="risk" lemma="risk" pos="NN" />
+		<w surface=";" lemma=";" pos=":" />
+		<w surface="recommends" lemma="recommend" pos="VBZ" />
+		<w surface="," lemma="," pos="," />
+		<w surface="in" lemma="in" pos="IN" />
+		<w surface="this" lemma="this" pos="DT" />
+		<w surface="connection" lemma="connection" pos="NN" />
+		<w surface="parallel" lemma="parallel" pos="JJ" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="technology" lemma="technology" pos="NN" />
+		<w surface="-" lemma="-" pos=":" />
+		<w surface="driven" lemma="drive" pos="VBN" />
+		<w surface="research" lemma="research" pos="NN" />
+		<w surface="that" lemma="that" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="emphasis" lemma="emphasis" pos="NN" />
+		<w surface="should" lemma="should" pos="MD" />
+		<w surface="be" lemma="be" pos="VB" />
+		<w surface="placed" lemma="place" pos="VBN" />
+		<w surface="on" lemma="on" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="development" lemma="development" pos="NN" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="joint" lemma="joint" pos="JJ" />
+		<w surface="modelling" lemma="model" pos="VBG" />
+		<w surface="and" lemma="and" pos="CC" />
+		<w surface="simulation" lemma="simulation" pos="NN" />
+		<w surface="capabilities" lemma="capability" pos="NNS" />
+		<w surface="and" lemma="and" pos="CC" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="ability" lemma="ability" pos="NN" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="analyse" lemma="analyse" pos="VB" />
+		<w surface="threats" lemma="threat" pos="NNS" />
+		<w surface="and" lemma="and" pos="CC" />
+		<w surface="security" lemma="security" pos="NN" />
+		<w surface="concepts" lemma="concept" pos="NNS" />
+		<w surface="," lemma="," pos="," />
+		<w surface="exploiting" lemma="exploit" pos="VBG" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="respective" lemma="respective" pos="JJ" />
+		<w surface="comparative" lemma="comparative" pos="JJ" />
+		<w surface="benefits" lemma="benefit" pos="NNS" />
+		<w surface="they" lemma="they" pos="PP" />
+		<w surface="offer" lemma="offer" pos="VBP" />
+		<w surface=";" lemma=";" pos="SENT" /> 
+		<mweoccurs>
+			<mweoccur candid="33">
+				<mwepart index="11">security</mwepart>
+				<mwepart index="12">research</mwepart>
+			</mweoccur>
+			<mweoccur candid="24">
+				<mwepart index="18">near</mwepart>
+				<mwepart index="19">future</mwepart>
+			</mweoccur>
+			<mweoccur candid="25">
+				<mwepart index="29">next</mwepart>
+				<mwepart index="30">framework</mwepart>
+				<mwepart index="31">programme</mwepart>
+			</mweoccur>
+			<mweoccur candid="26">
+				<mwepart index="29">next</mwepart>
+				<mwepart index="30">framework</mwepart>
+			</mweoccur>
+			<mweoccur candid="5">
+				<mwepart index="30">framework</mwepart>
+				<mwepart index="31">programme</mwepart>
+			</mweoccur>
+			<mweoccur candid="7">
+				<mwepart index="36">independent</mwepart>
+				<mwepart index="37">European</mwepart>
+				<mwepart index="38">security</mwepart>
+				<mwepart index="39">research</mwepart>
+				<mwepart index="40">programme</mwepart>
+			</mweoccur>
+			<mweoccur candid="8">
+				<mwepart index="36">independent</mwepart>
+				<mwepart index="37">European</mwepart>
+				<mwepart index="38">security</mwepart>
+				<mwepart index="39">research</mwepart>
+			</mweoccur>
+			<mweoccur candid="22">
+				<mwepart index="36">independent</mwepart>
+				<mwepart index="37">European</mwepart>
+				<mwepart index="38">security</mwepart>
+			</mweoccur>
+			<mweoccur candid="1">
+				<mwepart index="37">European</mwepart>
+				<mwepart index="38">security</mwepart>
+				<mwepart index="39">research</mwepart>
+				<mwepart index="40">programme</mwepart>
+			</mweoccur>
+			<mweoccur candid="2">
+				<mwepart index="37">European</mwepart>
+				<mwepart index="38">security</mwepart>
+				<mwepart index="39">research</mwepart>
+			</mweoccur>
+			<mweoccur candid="15">
+				<mwepart index="37">European</mwepart>
+				<mwepart index="38">security</mwepart>
+			</mweoccur>
+			<mweoccur candid="32">
+				<mwepart index="38">security</mwepart>
+				<mwepart index="39">research</mwepart>
+				<mwepart index="40">programme</mwepart>
+			</mweoccur>
+			<mweoccur candid="33">
+				<mwepart index="38">security</mwepart>
+				<mwepart index="39">research</mwepart>
+			</mweoccur>
+			<mweoccur candid="30">
+				<mwepart index="39">research</mwepart>
+				<mwepart index="40">programme</mwepart>
+			</mweoccur>
+		</mweoccurs>
+	</s>
+	<s s_id="2">
+		<w surface="2.6" lemma="@card@" pos="CD" />
+		<w surface="welcomes" lemma="welcome" pos="NNS" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="offer" lemma="offer" pos="NN" />
+		<w surface="that" lemma="that" pos="IN" />
+		<w surface="commission" lemma="commission" pos="NN" />
+		<w surface="president" lemma="president" pos="NN" />
+		<w surface="barroso" lemma="barroso" pos="NN" />
+		<w surface="made" lemma="make" pos="VBN" />
+		<w surface="during" lemma="during" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="plenary" lemma="plenary" pos="JJ" />
+		<w surface="session" lemma="session" pos="NN" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="24" lemma="@card@" pos="CD" />
+		<w surface="february" lemma="February" pos="NN" />
+		<w surface="2005" lemma="@card@" pos="CD" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="strengthen" lemma="strengthen" pos="VB" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="political" lemma="political" pos="JJ" />
+		<w surface="partnership" lemma="partnership" pos="NN" />
+		<w surface="with" lemma="with" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="european" lemma="European" pos="JJ" />
+		<w surface="commission" lemma="commission" pos="NN" />
+		<w surface="and" lemma="and" pos="CC" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="further" lemma="further" pos="RBR" />
+		<w surface="develop" lemma="develop" pos="VB" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="cooperation" lemma="cooperation" pos="NN" />
+		<w surface="agreement" lemma="agreement" pos="NN" />
+		<w surface="signed" lemma="sign" pos="VBN" />
+		<w surface="in" lemma="in" pos="IN" />
+		<w surface="2001" lemma="@card@" pos="CD" />
+		<w surface=";" lemma=";" pos=":" />
+		<w surface="and" lemma="and" pos="CC" />
+		<w surface="recalls" lemma="recall" pos="VBZ" />
+		<w surface="its" lemma="its" pos="PP$" />
+		<w surface="expectation" lemma="expectation" pos="NN" />
+		<w surface="of" lemma="of" pos="IN" />
+		<w surface="real" lemma="real" pos="JJ" />
+		<w surface="dialogue" lemma="dialogue" pos="NN" />
+		<w surface="with" lemma="with" pos="IN" />
+		<w surface="the" lemma="the" pos="DT" />
+		<w surface="commission" lemma="commission" pos="NN" />
+		<w surface="," lemma="," pos="," />
+		<w surface="which" lemma="which" pos="WDT" />
+		<w surface="should" lemma="should" pos="MD" />
+		<w surface="be" lemma="be" pos="VB" />
+		<w surface="extended" lemma="extend" pos="VBN" />
+		<w surface="to" lemma="to" pos="TO" />
+		<w surface="key" lemma="key" pos="JJ" />
+		<w surface="themes" lemma="theme" pos="NNS" />
+		<w surface="(" lemma="(" pos="(" />
+		<w surface="cdr" lemma="cdr" pos="NN" />
+		<w surface="354/2003" lemma="@card@" pos="CD" />
+		<w surface="point" lemma="point" pos="NN" />
+		<w surface="1.18" lemma="@card@" pos="CD" />
+		<w surface=")" lemma=")" pos=")" />
+		<w surface=";" lemma=";" pos="SENT" /> 
+		<mweoccurs>
+			<mweoccur candid="18">
+				<mwepart index="6">commission</mwepart>
+				<mwepart index="7">president</mwepart>
+				<mwepart index="8">barroso</mwepart>
+			</mweoccur>
+			<mweoccur candid="19">
+				<mwepart index="6">commission</mwepart>
+				<mwepart index="7">president</mwepart>
+			</mweoccur>
+			<mweoccur candid="11">
+				<mwepart index="7">president</mwepart>
+				<mwepart index="8">barroso</mwepart>
+			</mweoccur>
+			<mweoccur candid="27">
+				<mwepart index="12">plenary</mwepart>
+				<mwepart index="13">session</mwepart>
+			</mweoccur>
+			<mweoccur candid="16">
+				<mwepart index="16">February</mwepart>
+				<mwepart index="17">@card@</mwepart>
+			</mweoccur>
+			<mweoccur candid="29">
+				<mwepart index="21">political</mwepart>
+				<mwepart index="22">partnership</mwepart>
+			</mweoccur>
+			<mweoccur candid="0">
+				<mwepart index="25">European</mwepart>
+				<mwepart index="26">commission</mwepart>
+			</mweoccur>
+			<mweoccur candid="20">
+				<mwepart index="32">cooperation</mwepart>
+				<mwepart index="33">agreement</mwepart>
+			</mweoccur>
+			<mweoccur candid="13">
+				<mwepart index="43">real</mwepart>
+				<mwepart index="44">dialogue</mwepart>
+			</mweoccur>
+			<mweoccur candid="3">
+				<mwepart index="57">cdr</mwepart>
+				<mwepart index="58">@card@</mwepart>
+			</mweoccur>
+			<mweoccur candid="28">
+				<mwepart index="59">point</mwepart>
+				<mwepart index="60">@card@</mwepart>
+			</mweoccur>
+		</mweoccurs>
+	</s>
+</corpus>

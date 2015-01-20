@@ -1,0 +1,17 @@
+      3 abdominal cavity 	 vçdera dobuma
+      1 abdominal cavity 	 vçdera dobumâ
+      2 abdominal cavity	vçdera dobumâ
+      1 abdominal cavity 	 vçdera dobumu
+      5 abdominal discomfort 	 diskomforts vçderâ
+      2 abdominal discomfort	diskomforts vçderâ
+     44 abdominal pain 	 sâpes vçdera
+      5 abdominal pain	sâpes vçdera
+    286 abdominal pain 	 sâpes vçderâ
+     75 abdominal pain	sâpes vçderâ
+     19 abdominal pain 	 vçdera sâpes
+      3 abdominal pain	vçdera sâpes
+      1 abdominal pain 	 vçderâ sâpes
+      1 abdominal pain	vçderâ sâpes
+      1 abdominal wall 	 vçdera siena
+      3 abdominal wall 	 vçdera sienas
+      1 abdominal wall 	 vçdera sienu
