@@ -25,3 +25,5 @@ A set of useful tools for use with multiword expression extraction from parallel
   - Three parameters - input MPFormat file and output source and target language files
 * Converter from MP aligner format to the moses translation table format
   - Two parameters - input MPFormat file and output translation table file
+* MWE Translation Workflow
+  - A complete workflow for extracting a set of parallel multiword-expressions from parallel corpora
