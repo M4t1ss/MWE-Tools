@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dict SYSTEM "dtd/mwetoolkit-patterns.dtd">
+<patterns>
+<pat><w pos="JJ"/><w pos="JJ"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="JJ"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="JJ"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="JJ"/><w pos="NN"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="CC"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="CC"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="CC"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="CC"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="CC"/><w pos="NN"/><w pos="N"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="JJ"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NUM"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="CD"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="CD"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="N"/><w pos="N"/><w pos="CD"/><w pos="N"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="CD"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NN"/><w pos="CD"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="NUM"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="V"/><w pos="NN"/></pat>
+<pat><w pos="JJ"/><w pos="V"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="FW"/><w pos="FW"/></pat>
+<pat><w pos="FW"/><w pos="FW"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="JJ"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="JJ"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="JJ"/><w pos="NN"/><w pos="CD"/></pat>
+<pat><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="JJ"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="JJ"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="NN"/><w pos="CD"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="CD"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="NN"/><w pos="CD"/><w pos="N"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="CD"/></pat>
+<pat><w pos="NN"/><w pos="CD"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="CD"/><w pos="NN"/><w pos="NN"/><w pos="NN"/></pat>
+<pat><w pos="NN"/><w pos="CD"/><w pos="IN"/><w pos="CD"/></pat>
+</patterns>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dict SYSTEM "dtd/mwetoolkit-patterns.dtd">
+<patterns>
+<pat><w pos="A*"/><w pos="N*"/></pat>
+<pat><w pos="A*"/><w pos="C*"/></pat>
+<pat><w pos="C*"/><w pos="C*"/></pat>
+<pat><w pos="C*"/><w pos="N*"/></pat>
+<pat><w pos="D*"/><w pos="A*"/></pat>
+<pat><w pos="D*"/><w pos="D*"/></pat>
+<pat><w pos="D*"/><w pos="V*"/></pat>
+<pat><w pos="N*"/><w pos="A*"/></pat>
+<pat><w pos="N*"/><w pos="C*"/></pat>
+<pat><w pos="N*"/><w pos="D*"/></pat>
+<pat><w pos="N*"/><w pos="N*"/></pat>
+<pat><w pos="N*"/><w pos="T*"/></pat>
+<pat><w pos="N*"/><w pos="V*"/></pat>
+<pat><w pos="N*"/><w pos="P*"/><w pos="V*"/></pat>
+<pat><w pos="P*"/><w pos="A*"/></pat>
+<pat><w pos="P*"/><w pos="N*"/></pat>
+<pat><w pos="R*"/><w pos="D*"/></pat>
+<pat><w pos="R*"/><w pos="N*"/></pat>
+<pat><w pos="R*"/><w pos="P*"/></pat>
+<pat><w pos="V*"/><w pos="N*"/></pat>
+<pat><w pos="V*"/><w pos="D*"/></pat>
+<pat><w pos="V*"/><w pos="R*"/><w pos="N*"/></pat>
+<pat><w pos="V*"/><w pos="T*"/><w pos="R*"/><w pos="N*"/></pat>
+</patterns>
+

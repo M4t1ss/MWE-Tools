@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<patterns>
+<pat><w pos="affsn*"/><w pos="ncfsn*"/></pat>
+<pat><w pos="affsg*"/><w pos="ncfsg*"/></pat>
+<pat><w pos="affsd*"/><w pos="ncfsd*"/></pat>
+<pat><w pos="affsa*"/><w pos="ncfsa*"/></pat>
+<pat><w pos="affsl*"/><w pos="ncfsl*"/></pat>
+<pat><w pos="affpn*"/><w pos="ncfpn*"/></pat>
+<pat><w pos="affpg*"/><w pos="ncfpg*"/></pat>
+<pat><w pos="affpd*"/><w pos="ncfpd*"/></pat>
+<pat><w pos="affpa*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="affpl*"/><w pos="ncfpl*"/></pat>
+<pat><w pos="afmsn*"/><w pos="ncmsn*"/></pat>
+<pat><w pos="afmsg*"/><w pos="ncmsg*"/></pat>
+<pat><w pos="afmsd*"/><w pos="ncmsd*"/></pat>
+<pat><w pos="afmsa*"/><w pos="ncmsa*"/></pat>
+<pat><w pos="afmsl*"/><w pos="ncmsl*"/></pat>
+<pat><w pos="afmpn*"/><w pos="ncmpn*"/></pat>
+<pat><w pos="afmpg*"/><w pos="ncmpg*"/></pat>
+<pat><w pos="afmpd*"/><w pos="ncmpd*"/></pat>
+<pat><w pos="afmpa*"/><w pos="ncmpa*"/></pat>
+<pat><w pos="afmpl*"/><w pos="ncmpl*"/></pat>
+<pat><w pos="v*fsn*"/><w pos="ncfsn*"/></pat>
+<pat><w pos="v*fsg*"/><w pos="ncfsg*"/></pat>
+<pat><w pos="v*fsd*"/><w pos="ncfsd*"/></pat>
+<pat><w pos="v*fsa*"/><w pos="ncfsa*"/></pat>
+<pat><w pos="v*fsl*"/><w pos="ncfsl*"/></pat>
+<pat><w pos="v*fpn*"/><w pos="ncfpn*"/></pat>
+<pat><w pos="v*fpg*"/><w pos="ncfpg*"/></pat>
+<pat><w pos="v*fpd*"/><w pos="ncfpd*"/></pat>
+<pat><w pos="v*fpa*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="v*fpl*"/><w pos="ncfpl*"/></pat>
+<pat><w pos="v*msn*"/><w pos="ncmsn*"/></pat>
+<pat><w pos="v*msg*"/><w pos="ncmsg*"/></pat>
+<pat><w pos="v*msd*"/><w pos="ncmsd*"/></pat>
+<pat><w pos="v*msa*"/><w pos="ncmsa*"/></pat>
+<pat><w pos="v*msl*"/><w pos="ncmsl*"/></pat>
+<pat><w pos="v*mpn*"/><w pos="ncmpn*"/></pat>
+<pat><w pos="v*mpg*"/><w pos="ncmpg*"/></pat>
+<pat><w pos="v*mpd*"/><w pos="ncmpd*"/></pat>
+<pat><w pos="v*mpa*"/><w pos="ncmpa*"/></pat>
+<pat><w pos="v*mpl*"/><w pos="ncmpl*"/></pat>
+<pat><w pos="ncmsg*"/><w pos="n*"/></pat>
+<pat><w pos="ncmpg*"/><w pos="n*"/></pat>
+<pat><w pos="ncfsg*"/><w pos="n*"/></pat>
+<pat><w pos="ncfpg*"/><w pos="n*"/></pat>
+<pat><w pos="affsn*"/><w pos="n*g*"/><w pos="ncfsn*"/></pat>
+<pat><w pos="affsg*"/><w pos="n*g*"/><w pos="ncfsg*"/></pat>
+<pat><w pos="affsd*"/><w pos="n*g*"/><w pos="ncfsd*"/></pat>
+<pat><w pos="affsa*"/><w pos="n*g*"/><w pos="ncfsa*"/></pat>
+<pat><w pos="affsl*"/><w pos="n*g*"/><w pos="ncfsl*"/></pat>
+<pat><w pos="affpn*"/><w pos="n*g*"/><w pos="ncfpn*"/></pat>
+<pat><w pos="affpg*"/><w pos="n*g*"/><w pos="ncfpg*"/></pat>
+<pat><w pos="affpd*"/><w pos="n*g*"/><w pos="ncfpd*"/></pat>
+<pat><w pos="affpa*"/><w pos="n*g*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="affpl*"/><w pos="n*g*"/><w pos="ncfpl*"/></pat>
+<pat><w pos="afmsn*"/><w pos="n*g*"/><w pos="ncmsn*"/></pat>
+<pat><w pos="afmsg*"/><w pos="n*g*"/><w pos="ncmsg*"/></pat>
+<pat><w pos="afmsd*"/><w pos="n*g*"/><w pos="ncmsd*"/></pat>
+<pat><w pos="afmsa*"/><w pos="n*g*"/><w pos="ncmsa*"/></pat>
+<pat><w pos="afmsl*"/><w pos="n*g*"/><w pos="ncmsl*"/></pat>
+<pat><w pos="afmpn*"/><w pos="n*g*"/><w pos="ncmpn*"/></pat>
+<pat><w pos="afmpg*"/><w pos="n*g*"/><w pos="ncmpg*"/></pat>
+<pat><w pos="afmpd*"/><w pos="n*g*"/><w pos="ncmpd*"/></pat>
+<pat><w pos="afmpa*"/><w pos="n*g*"/><w pos="ncmpa*"/></pat>
+<pat><w pos="afmpl*"/><w pos="n*g*"/><w pos="ncmpl*"/></pat>
+<pat><w pos="v*fsn*"/><w pos="n*g*"/><w pos="ncfsn*"/></pat>
+<pat><w pos="v*fsg*"/><w pos="n*g*"/><w pos="ncfsg*"/></pat>
+<pat><w pos="v*fsd*"/><w pos="n*g*"/><w pos="ncfsd*"/></pat>
+<pat><w pos="v*fsa*"/><w pos="n*g*"/><w pos="ncfsa*"/></pat>
+<pat><w pos="v*fsl*"/><w pos="n*g*"/><w pos="ncfsl*"/></pat>
+<pat><w pos="v*fpn*"/><w pos="n*g*"/><w pos="ncfpn*"/></pat>
+<pat><w pos="v*fpg*"/><w pos="n*g*"/><w pos="ncfpg*"/></pat>
+<pat><w pos="v*fpd*"/><w pos="n*g*"/><w pos="ncfpd*"/></pat>
+<pat><w pos="v*fpa*"/><w pos="n*g*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="v*fpl*"/><w pos="n*g*"/><w pos="ncfpl*"/></pat>
+<pat><w pos="v*msn*"/><w pos="n*g*"/><w pos="ncmsn*"/></pat>
+<pat><w pos="v*msg*"/><w pos="n*g*"/><w pos="ncmsg*"/></pat>
+<pat><w pos="v*msd*"/><w pos="n*g*"/><w pos="ncmsd*"/></pat>
+<pat><w pos="v*msa*"/><w pos="n*g*"/><w pos="ncmsa*"/></pat>
+<pat><w pos="v*msl*"/><w pos="n*g*"/><w pos="ncmsl*"/></pat>
+<pat><w pos="v*mpn*"/><w pos="n*g*"/><w pos="ncmpn*"/></pat>
+<pat><w pos="v*mpg*"/><w pos="n*g*"/><w pos="ncmpg*"/></pat>
+<pat><w pos="v*mpd*"/><w pos="n*g*"/><w pos="ncmpd*"/></pat>
+<pat><w pos="v*mpa*"/><w pos="n*g*"/><w pos="ncmpa*"/></pat>
+<pat><w pos="v*mpl*"/><w pos="n*g*"/><w pos="ncmpl*"/></pat>
+<pat><w pos="n*g*"/><w pos="affpa*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="n*g*"/><w pos="affsn*"/><w pos="ncfsn*"/></pat>
+<pat><w pos="n*g*"/><w pos="affsg*"/><w pos="ncfsg*"/></pat>
+<pat><w pos="n*g*"/><w pos="affsd*"/><w pos="ncfsd*"/></pat>
+<pat><w pos="n*g*"/><w pos="affsa*"/><w pos="ncfsa*"/></pat>
+<pat><w pos="n*g*"/><w pos="affsl*"/><w pos="ncfsl*"/></pat>
+<pat><w pos="n*g*"/><w pos="affpn*"/><w pos="ncfpn*"/></pat>
+<pat><w pos="n*g*"/><w pos="affpg*"/><w pos="ncfpg*"/></pat>
+<pat><w pos="n*g*"/><w pos="affpd*"/><w pos="ncfpd*"/></pat>
+<pat><w pos="n*g*"/><w pos="affpa*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="n*g*"/><w pos="affpl*"/><w pos="ncfpl*"/></pat>
+<pat><w pos="n*g*"/><w pos="afmsn*"/><w pos="ncmsn*"/></pat>
+<pat><w pos="n*g*"/><w pos="afmsg*"/><w pos="ncmsg*"/></pat>
+<pat><w pos="n*g*"/><w pos="afmsd*"/><w pos="ncmsd*"/></pat>
+<pat><w pos="n*g*"/><w pos="afmsa*"/><w pos="ncmsa*"/></pat>
+<pat><w pos="n*g*"/><w pos="afmsl*"/><w pos="ncmsl*"/></pat>
+<pat><w pos="n*g*"/><w pos="afmpn*"/><w pos="ncmpn*"/></pat>
+<pat><w pos="n*g*"/><w pos="afmpg*"/><w pos="ncmpg*"/></pat>
+<pat><w pos="n*g*"/><w pos="afmpd*"/><w pos="ncmpd*"/></pat>
+<pat><w pos="n*g*"/><w pos="afmpa*"/><w pos="ncmpa*"/></pat>
+<pat><w pos="n*g*"/><w pos="afmpl*"/><w pos="ncmpl*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fpa*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fsn*"/><w pos="ncfsn*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fsg*"/><w pos="ncfsg*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fsd*"/><w pos="ncfsd*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fsa*"/><w pos="ncfsa*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fsl*"/><w pos="ncfsl*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fpn*"/><w pos="ncfpn*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fpg*"/><w pos="ncfpg*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fpd*"/><w pos="ncfpd*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fpa*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*fpl*"/><w pos="ncfpl*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*msn*"/><w pos="ncmsn*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*msg*"/><w pos="ncmsg*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*msd*"/><w pos="ncmsd*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*msa*"/><w pos="ncmsa*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*msl*"/><w pos="ncmsl*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*mpn*"/><w pos="ncmpn*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*mpg*"/><w pos="ncmpg*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*mpd*"/><w pos="ncmpd*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*mpa*"/><w pos="ncmpa*"/></pat>
+<pat><w pos="n*g*"/><w pos="v*mpl*"/><w pos="ncmpl*"/></pat>
+<pat><w pos="afmsg*"/><w pos="ncmsg*"/><w pos="nc*"/></pat>
+<pat><w pos="afmpg*"/><w pos="ncmpg*"/><w pos="nc*"/></pat>
+<pat><w pos="affsg*"/><w pos="ncfsg*"/><w pos="nc*"/></pat>
+<pat><w pos="affpg*"/><w pos="ncfpg*"/><w pos="nc*"/></pat>
+<pat><w pos="affsn*"/><w pos="affsn*"/><w pos="ncfsn*"/></pat>
+<pat><w pos="affsg*"/><w pos="affsg*"/><w pos="ncfsg*"/></pat>
+<pat><w pos="affsd*"/><w pos="affsd*"/><w pos="ncfsd*"/></pat>
+<pat><w pos="affsa*"/><w pos="affsa*"/><w pos="ncfsa*"/></pat>
+<pat><w pos="affsl*"/><w pos="affsl*"/><w pos="ncfsl*"/></pat>
+<pat><w pos="affpn*"/><w pos="affpn*"/><w pos="ncfpn*"/></pat>
+<pat><w pos="affpg*"/><w pos="affpg*"/><w pos="ncfpg*"/></pat>
+<pat><w pos="affpd*"/><w pos="affpd*"/><w pos="ncfpd*"/></pat>
+<pat><w pos="affpa*"/><w pos="affpa*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="affpl*"/><w pos="affpl*"/><w pos="ncfpl*"/></pat>
+<pat><w pos="afmsn*"/><w pos="afmsn*"/><w pos="ncmsn*"/></pat>
+<pat><w pos="afmsg*"/><w pos="afmsg*"/><w pos="ncmsg*"/></pat>
+<pat><w pos="afmsd*"/><w pos="afmsd*"/><w pos="ncmsd*"/></pat>
+<pat><w pos="afmsa*"/><w pos="afmsa*"/><w pos="ncmsa*"/></pat>
+<pat><w pos="afmsl*"/><w pos="afmsl*"/><w pos="ncmsl*"/></pat>
+<pat><w pos="afmpn*"/><w pos="afmpn*"/><w pos="ncmpn*"/></pat>
+<pat><w pos="afmpg*"/><w pos="afmpg*"/><w pos="ncmpg*"/></pat>
+<pat><w pos="afmpd*"/><w pos="afmpd*"/><w pos="ncmpd*"/></pat>
+<pat><w pos="afmpa*"/><w pos="afmpa*"/><w pos="ncmpa*"/></pat>
+<pat><w pos="afmpl*"/><w pos="afmpl*"/><w pos="ncmpl*"/></pat>
+<pat><w pos="v*fsn*"/><w pos="affsn*"/><w pos="ncfsn*"/></pat>
+<pat><w pos="v*fsg*"/><w pos="affsg*"/><w pos="ncfsg*"/></pat>
+<pat><w pos="v*fsd*"/><w pos="affsd*"/><w pos="ncfsd*"/></pat>
+<pat><w pos="v*fsa*"/><w pos="affsa*"/><w pos="ncfsa*"/></pat>
+<pat><w pos="v*fsl*"/><w pos="affsl*"/><w pos="ncfsl*"/></pat>
+<pat><w pos="v*fpn*"/><w pos="affpn*"/><w pos="ncfpn*"/></pat>
+<pat><w pos="v*fpg*"/><w pos="affpg*"/><w pos="ncfpg*"/></pat>
+<pat><w pos="v*fpd*"/><w pos="affpd*"/><w pos="ncfpd*"/></pat>
+<pat><w pos="v*fpa*"/><w pos="affpa*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="v*fpl*"/><w pos="affpl*"/><w pos="ncfpl*"/></pat>
+<pat><w pos="v*msn*"/><w pos="afmsn*"/><w pos="ncmsn*"/></pat>
+<pat><w pos="v*msg*"/><w pos="afmsg*"/><w pos="ncmsg*"/></pat>
+<pat><w pos="v*msd*"/><w pos="afmsd*"/><w pos="ncmsd*"/></pat>
+<pat><w pos="v*msa*"/><w pos="afmsa*"/><w pos="ncmsa*"/></pat>
+<pat><w pos="v*msl*"/><w pos="afmsl*"/><w pos="ncmsl*"/></pat>
+<pat><w pos="v*mpn*"/><w pos="afmpn*"/><w pos="ncmpn*"/></pat>
+<pat><w pos="v*mpg*"/><w pos="afmpg*"/><w pos="ncmpg*"/></pat>
+<pat><w pos="v*mpd*"/><w pos="afmpd*"/><w pos="ncmpd*"/></pat>
+<pat><w pos="v*mpa*"/><w pos="afmpa*"/><w pos="ncmpa*"/></pat>
+<pat><w pos="v*mpl*"/><w pos="afmpl*"/><w pos="ncmpl*"/></pat>
+<pat><w pos="v*fsn*"/><w pos="v*fsn*"/><w pos="ncfsn*"/></pat>
+<pat><w pos="v*fsg*"/><w pos="v*fsg*"/><w pos="ncfsg*"/></pat>
+<pat><w pos="v*fsd*"/><w pos="v*fsd*"/><w pos="ncfsd*"/></pat>
+<pat><w pos="v*fsa*"/><w pos="v*fsa*"/><w pos="ncfsa*"/></pat>
+<pat><w pos="v*fsl*"/><w pos="v*fsl*"/><w pos="ncfsl*"/></pat>
+<pat><w pos="v*fpn*"/><w pos="v*fpn*"/><w pos="ncfpn*"/></pat>
+<pat><w pos="v*fpg*"/><w pos="v*fpg*"/><w pos="ncfpg*"/></pat>
+<pat><w pos="v*fpd*"/><w pos="v*fpd*"/><w pos="ncfpd*"/></pat>
+<pat><w pos="v*fpa*"/><w pos="v*fpa*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="v*fpl*"/><w pos="v*fpl*"/><w pos="ncfpl*"/></pat>
+<pat><w pos="v*msn*"/><w pos="v*msn*"/><w pos="ncmsn*"/></pat>
+<pat><w pos="v*msg*"/><w pos="v*msg*"/><w pos="ncmsg*"/></pat>
+<pat><w pos="v*msd*"/><w pos="v*msd*"/><w pos="ncmsd*"/></pat>
+<pat><w pos="v*msa*"/><w pos="v*msa*"/><w pos="ncmsa*"/></pat>
+<pat><w pos="v*msl*"/><w pos="v*msl*"/><w pos="ncmsl*"/></pat>
+<pat><w pos="v*mpn*"/><w pos="v*mpn*"/><w pos="ncmpn*"/></pat>
+<pat><w pos="v*mpg*"/><w pos="v*mpg*"/><w pos="ncmpg*"/></pat>
+<pat><w pos="v*mpd*"/><w pos="v*mpd*"/><w pos="ncmpd*"/></pat>
+<pat><w pos="v*mpa*"/><w pos="v*mpa*"/><w pos="ncmpa*"/></pat>
+<pat><w pos="v*mpl*"/><w pos="v*mpl*"/><w pos="ncmpl*"/></pat>
+<pat><w pos="af.fsn*"/><w pos="v*fsn*"/><w pos="ncfsn*"/></pat>
+<pat><w pos="af.fsg*"/><w pos="v*fsg*"/><w pos="ncfsg*"/></pat>
+<pat><w pos="af.fsd*"/><w pos="v*fsd*"/><w pos="ncfsd*"/></pat>
+<pat><w pos="af.fsa*"/><w pos="v*fsa*"/><w pos="ncfsa*"/></pat>
+<pat><w pos="af.fsl*"/><w pos="v*fsl*"/><w pos="ncfsl*"/></pat>
+<pat><w pos="af.fpn*"/><w pos="v*fpn*"/><w pos="ncfpn*"/></pat>
+<pat><w pos="af.fpg*"/><w pos="v*fpg*"/><w pos="ncfpg*"/></pat>
+<pat><w pos="af.fpd*"/><w pos="v*fpd*"/><w pos="ncfpd*"/></pat>
+<pat><w pos="af.fpa*"/><w pos="v*fpa*"/><w pos="ncfpa*"/></pat>
+<pat><w pos="af.fpl*"/><w pos="v*fpl*"/><w pos="ncfpl*"/></pat>
+<pat><w pos="af.msn*"/><w pos="v*msn*"/><w pos="ncmsn*"/></pat>
+<pat><w pos="af.msg*"/><w pos="v*msg*"/><w pos="ncmsg*"/></pat>
+<pat><w pos="af.msd*"/><w pos="v*msd*"/><w pos="ncmsd*"/></pat>
+<pat><w pos="af.msa*"/><w pos="v*msa*"/><w pos="ncmsa*"/></pat>
+<pat><w pos="af.msl*"/><w pos="v*msl*"/><w pos="ncmsl*"/></pat>
+<pat><w pos="af.mpn*"/><w pos="v*mpn*"/><w pos="ncmpn*"/></pat>
+<pat><w pos="af.mpg*"/><w pos="v*mpg*"/><w pos="ncmpg*"/></pat>
+<pat><w pos="af.mpd*"/><w pos="v*mpd*"/><w pos="ncmpd*"/></pat>
+<pat><w pos="af.mpa*"/><w pos="v*mpa*"/><w pos="ncmpa*"/></pat>
+<pat><w pos="af.mpl*"/><w pos="v*mpl*"/><w pos="ncmpl*"/></pat>
+</patterns>

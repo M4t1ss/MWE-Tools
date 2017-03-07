@@ -64,20 +64,17 @@ python2 $MWE_TOOLKIT/bin/annotate_mwe.py -c candidates.cs.xml train.cs.tagged.xm
 $MWE_TOOLS/XMLConverter/converter train.en.annotated.xml
 $MWE_TOOLS/XMLConverter/converter train.cs.annotated.xml
 
-# Run MPAligner to try to align the MWEs 
+# Remove TAAS tags
+sed 's/<.*">//' train.en.annotated.xml.taas.tagged | sed 's/<\/TENAME>//' > train.en.mweSentences.txt
+sed 's/<.*">//' train.cs.annotated.xml.taas.tagged | sed 's/<\/TENAME>//' > train.cs.mweSentences.txt
 
-$MONO/mono --runtime=v4.0 $MP_ALIGNER/ParallelCorpusMPAligner.exe \
--c /data/inguna/MPAligner/LinuxMPAlignerConfig.xml \
--si train.en.annotated.xml.taas.tagged \
--ti train.cs.annotated.xml.taas.tagged \
--sl en \
--tl cs \
--o train.MPOutput
+# Remove duplicates
+uniq -u train.en.mweSentences.txt > train.en.mweSentences.u.txt
+uniq -u train.cs.mweSentences.txt > train.cs.mweSentences.u.txt
 
-# Convert MPOutput to normal phrase pairs with my tool 
-
-$MWE_TOOLS/MPoutput_to_training_data.sh train.MPOutput train.en.out train.cs.out
+# Align the sentences
+php align.php train.en.mweSentences.u.txt train.cs.mweSentences.u.txt
 
 
-# The final outputs should be an aligned set of parallel multiword expressions in files:
-# "train.en.out" and "train.cs.out"
+# The final outputs should be an aligned set of parallel sentences that contain multiword expressions in files:
+# "train.en.mweSentences.u.txt.out.txt" and "train.cs.mweSentences.u.txt.out.txt"
