@@ -1,4 +1,4 @@
-# Workflow for obtaining a parallel set of MWEs from a parallel corpus
+# Workflow for obtaining a parallel set of MWEs from a parallel corpus for running in a cluster
 # Required to set paths to the tools
 # LV Tagger only required for Latvian
 

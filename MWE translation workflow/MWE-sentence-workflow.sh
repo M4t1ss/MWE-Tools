@@ -1,4 +1,4 @@
-# Workflow for obtaining set of a parallel sentences that include at least one MWE from a parallel corpus
+# Workflow for obtaining a set of parallel sentences that include at least one MWE from a parallel corpus
 # Required to set paths to the tools
 # LV Tagger only required for Latvian
 
