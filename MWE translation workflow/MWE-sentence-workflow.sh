@@ -1,4 +1,4 @@
-# MWE Workflow
+# Workflow for obtaining set of a parallel sentences that include at least one MWE from a parallel corpus
 # Required to set paths to the tools
 # LV Tagger only required for Latvian
 
@@ -21,7 +21,6 @@ sed 's/$/\n<sentence>/' train.tok.en > train.br.en
 sed 's/$/\n<sentence>/' train.tok.cs > train.br.cs
 
 # Tag data 
-
 $TREE_TAGGER/cmd/tree-tagger-english < train.br.en > train.en.tt
 $TREE_TAGGER/cmd/tree-tagger-czech < train.br.cs > train.cs.tt
 
@@ -30,14 +29,8 @@ sed 's/<sentence>/.\tSENTENCE\t./g' train.en.tt > train.en.tt2
 sed 's/<sentence>/.\tSENTENCE\t./g' train.cs.tt > train.cs.tt2
 
 # Tagger to XML 
-
 python2 $MWE_TOOLKIT/bin/from_treetagger.py -s SENTENCE train.en.tt2 > train.en.tagged.xml
 python2 $MWE_TOOLKIT/bin/from_treetagger.py -s SENTENCE train.cs.tt2 > train.cs.tagged.xml
-
-# Index data 
-
-python2 $MWE_TOOLKIT/bin/index.py -v -i index/en_index train.en.tagged.xml
-python2 $MWE_TOOLKIT/bin/index.py -v -i index/cs_index train.cs.tagged.xml
 
 # Get patterns... somehow?!
 # /patterns folder contains
@@ -46,7 +39,6 @@ python2 $MWE_TOOLKIT/bin/index.py -v -i index/cs_index train.cs.tagged.xml
 # 	patterns_lv.xml
 
 # Extract MWE candidates 
-
 python2 $MWE_TOOLKIT/bin/candidates.py -p index/patterns_en.xml train.en.tagged.xml > candidates.en.xml
 python2 $MWE_TOOLKIT/bin/candidates.py -p index/patterns_cs.xml train.cs.tagged.xml > candidates.cs.xml
 
@@ -55,12 +47,10 @@ grep -v "<unknown>" candidates.cs.xml > candidates.cs.clean.xml
 grep -v '<!-- #  # -->' candidates.en.xml > candidates.en.clean.xml
 
 # Annotate data 
-
 python2 $MWE_TOOLKIT/bin/annotate_mwe.py -c candidates.en.xml train.en.tagged.xml > train.en.annotated.xml
 python2 $MWE_TOOLKIT/bin/annotate_mwe.py -c candidates.cs.xml train.cs.tagged.xml > train.cs.annotated.xml
 
 # Use my tool to convert for MPFormat 
-
 $MWE_TOOLS/XMLConverter/converter train.en.annotated.xml
 $MWE_TOOLS/XMLConverter/converter train.cs.annotated.xml
 
