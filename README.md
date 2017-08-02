@@ -27,3 +27,22 @@ A set of useful tools for use with multiword expression extraction from parallel
   - Two parameters - input MPFormat file and output translation table file
 * MWE Translation Workflow
   - A complete workflow for extracting a set of parallel multiword-expressions from parallel corpora
+
+  
+	
+Publications
+---------
+
+If you use this tool, please cite the following paper:
+
+Matīss Rikters and Ondřej Bojar (2017). "[Paying Attention to Multi-Word Expressions in Neural Machine Translation.](http://aamt.info/app-def/S-102/mtsummit/2017/research-track/)" In Proceedings of the 16th Machine Translation Summit (MT Summit 2017) (2017).
+
+```
+@inproceedings{Rikters-Bojar2017MTSummit,
+	author = {Rikters, Matīss and Bojar, Ond\v{r}ej},
+	booktitle={Proceedings of the 16th Machine Translation Summit (MT Summit 2017)},
+	title = {{Paying Attention to Multi-Word Expressions in Neural Machine Translation}},
+	address={Nagoya, Japan},
+	year = {2017}
+}
+```
