@@ -31,7 +31,7 @@ qsub -N job_en_aa6 -hold_jid job_en_aa5 -cwd -b y "python2 $MWE_TOOLKIT/bin/anno
 qsub -N job_en_aa7 -hold_jid job_en_aa6 -cwd -b y "$MWE_TOOLS/XMLConverter/converter ./enpart.annotated.aa.xml" 
 
 # Run MPAligner to try to align the MWEs 
-qsub -N job_encs_aa8 -hold_jid job_cs_aa7,job_en_aa7 -cwd -b y "$MONO/mono --runtime=v4.0 $MP_ALIGNER/ParallelCorpusMPAligner.exe -c $MP_ALIGNER/LinuxMPAlignerConfig.xml -si enpart.annotated.aa.xml.taas.tagged -ti cspart.annotated.aa.xml.taas.tagged -sl en -tl cs -o part.aa.MPOutput" 
+qsub -N job_encs_aa8 -hold_jid job_cs_aa7,job_en_aa7 -cwd -b y "$MONO/mono --runtime=v4.0 $MP_ALIGNER/CompiledVersion/MPAligner.exe -c $MP_ALIGNER/LinuxMPAlignerConfig.xml -si enpart.annotated.aa.xml.taas.tagged -ti cspart.annotated.aa.xml.taas.tagged -sl en -tl cs -o part.aa.MPOutput" 
 
 # Convert MPOutput to normal phrase pairs with my tool 
 qsub -N job_encs_aa9 -hold_jid job_encs_aa8 -cwd -b y "$MWE_TOOLS/MPoutput_to_training_data.sh part.aa.MPOutput enpart.aa.out cspart.aa.out"

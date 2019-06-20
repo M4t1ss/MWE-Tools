@@ -55,7 +55,7 @@ $MWE_TOOLS/XMLConverter/converter train.en.annotated.xml
 $MWE_TOOLS/XMLConverter/converter train.cs.annotated.xml
 
 # Run MPAligner to try to align the MWEs 
-$MONO/mono --runtime=v4.0 $MP_ALIGNER/ParallelCorpusMPAligner.exe \
+$MONO/mono --runtime=v4.0 $MP_ALIGNER/CompiledVersion/MPAligner.exe \
 -c $MP_ALIGNER/LinuxMPAlignerConfig.xml \
 -si train.en.annotated.xml.taas.tagged \
 -ti train.cs.annotated.xml.taas.tagged \
