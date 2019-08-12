@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dict SYSTEM "dtd/mwetoolkit-patterns.dtd">
+<patterns>
+<pat><w pos="a"/><w pos="a"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="a"/><w pos="a"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="a"/><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="a"/><w pos="n"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="a"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="c"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="c"/><w pos="a"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="c"/><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="c"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="c"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/><w pos="a"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/><w pos="a"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/><w pos="n"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="m"/></pat>
+<pat><w pos="a"/><w pos="m"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="V"/><w pos="n"/></pat>
+<pat><w pos="a"/><w pos="V"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="a"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="a"/><w pos="a"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="a"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="n"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="n"/><w pos="a"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="n"/><w pos="a"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="n"/><w pos="n"/><w pos="a"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/><w pos="n"/></pat>
+<pat><w pos="i"/></pat>
+<pat><w pos="l"/></pat>
+<pat><w pos="nr"/></pat>
+<pat><w pos="ns"/></pat>
+<pat><w pos="nt"/></pat>
+</patterns>
